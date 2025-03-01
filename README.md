@@ -28,7 +28,7 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 
 ## ¿A quién va dirigido?
 **Este curso es ideal para:**
-* Principiantes interesados en la ciberseguridad.
+* Principiantes interesados en empezar en el mundo de la ciberseguridad.
 * Estudiantes de informática que buscan ampliar sus conocimientos en la seguridad de la información.
 
 ## ¿Qué aprenderás?
