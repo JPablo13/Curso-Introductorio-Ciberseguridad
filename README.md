@@ -42,4 +42,4 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 ¡Las contribuciones son bienvenidas! Si encuentras errores, tienes sugerencias o quieres añadir contenido, no dudes en abrir un issue o enviar un pull request.
 
 ## Contacto
-Si tienes alguna pregunta, no dudes en contactarme en [pablo13villalobos@gmail.com].
+Si tienes alguna pregunta, no dudes en contactarme en [www.linkedin.com/in/josé-pablo-mena-villalobos].
